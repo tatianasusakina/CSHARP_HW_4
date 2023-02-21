@@ -1,0 +1,15 @@
+/Users/tatanasusakina/Desktop/homework_C#_4/zadacha27/bin/Debug/net7.0/zadacha27
+/Users/tatanasusakina/Desktop/homework_C#_4/zadacha27/bin/Debug/net7.0/zadacha27.deps.json
+/Users/tatanasusakina/Desktop/homework_C#_4/zadacha27/bin/Debug/net7.0/zadacha27.runtimeconfig.json
+/Users/tatanasusakina/Desktop/homework_C#_4/zadacha27/bin/Debug/net7.0/zadacha27.dll
+/Users/tatanasusakina/Desktop/homework_C#_4/zadacha27/bin/Debug/net7.0/zadacha27.pdb
+/Users/tatanasusakina/Desktop/homework_C#_4/zadacha27/obj/Debug/net7.0/zadacha27.csproj.AssemblyReference.cache
+/Users/tatanasusakina/Desktop/homework_C#_4/zadacha27/obj/Debug/net7.0/zadacha27.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tatanasusakina/Desktop/homework_C#_4/zadacha27/obj/Debug/net7.0/zadacha27.AssemblyInfoInputs.cache
+/Users/tatanasusakina/Desktop/homework_C#_4/zadacha27/obj/Debug/net7.0/zadacha27.AssemblyInfo.cs
+/Users/tatanasusakina/Desktop/homework_C#_4/zadacha27/obj/Debug/net7.0/zadacha27.csproj.CoreCompileInputs.cache
+/Users/tatanasusakina/Desktop/homework_C#_4/zadacha27/obj/Debug/net7.0/zadacha27.dll
+/Users/tatanasusakina/Desktop/homework_C#_4/zadacha27/obj/Debug/net7.0/refint/zadacha27.dll
+/Users/tatanasusakina/Desktop/homework_C#_4/zadacha27/obj/Debug/net7.0/zadacha27.pdb
+/Users/tatanasusakina/Desktop/homework_C#_4/zadacha27/obj/Debug/net7.0/zadacha27.genruntimeconfig.cache
+/Users/tatanasusakina/Desktop/homework_C#_4/zadacha27/obj/Debug/net7.0/ref/zadacha27.dll
